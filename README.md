@@ -74,22 +74,3 @@ algorithm, then subtract the two clock times to see the difference. Convert the 
 seconds by dividing by the constant CLOCKS_PER_SEC. On linprog, you can look up more
 details at the manual page for clock (man clock).
 
-Submission: 
-
-Tar all of your source code, as well as your makefile and your analysis.txt file, into a single tar
-archive and submit online via blackboard, using the Assignment 6 link.
-Your tar file should be named in this format, all lowercase:
-
-
-lastname_firstname_p7.tar
-
-Example: My tar file would be: gaitros_davd_proj7.tar
-
-
-Verify your file has been submitted properly.
-
-
-Note that in addition to the provided test cases, we will also test your program using additional
-test files. Your program must be able to pass all the test cases in order to obtain a full score for
-the corresponding components. Part of the grading will take your choice of STL containers and
-your complexity analyses into account, and testing will involve some larger sets of inputs
